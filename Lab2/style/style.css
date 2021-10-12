@@ -1,0 +1,86 @@
+h1{
+    font-style: italic;
+font-weight: bold;
+font-size: 30px;
+font-family: arial, sans-serif;
+
+}
+
+.body2example{
+    background-color: pink;
+}
+
+.h12example{
+    color: black;
+}
+
+
+
+#body3example{
+    background-color: orange;
+}
+
+#h13example{
+    color: black;
+}
+
+
+
+.body4example{
+    background-color: gold;
+}
+
+.h14example{
+    color: black;
+}
+
+
+
+
+#body5example{
+    background-color: purple;
+}
+
+#h15example{
+    color: black;
+}
+
+
+
+.body7example{
+    background-color:blue;
+}
+
+.h17example{
+    color: black;
+}
+
+
+
+#body8example{
+    background-color: white;
+}
+
+#h18example{
+    color: black;
+}
+
+
+
+.body9example{
+    background-color: black;
+}
+
+.h19example{
+    color: white;
+}
+
+
+
+#body10example{
+    background-color: lime;
+}
+
+#h110example{
+    color: black;
+}
